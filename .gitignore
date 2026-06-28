@@ -1,0 +1,29 @@
+# Build / IDE
+**/bin/
+**/obj/
+**/node_modules/
+**/dist/
+**/.vs/
+
+# User data
+*.user
+*.suo
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Env
+.env
+.env.*
+
+# Logs
+*.log
+npm-debug.log*
+
+# Test
+TestResults/
+coverage/
+
+# Vite
+web/dist/

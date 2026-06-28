@@ -1,0 +1,29 @@
+@import "tailwindcss";
+
+@theme {
+  --color-pokedex-red: #dc3545;
+  --color-pokedex-red-dark: #b02a37;
+  --color-pokedex-bg: #f4f6f8;
+  --font-sans: "Segoe UI", system-ui, sans-serif;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-sans);
+  background: var(--color-pokedex-bg);
+  color: #212529;
+}
+
+#root {
+  min-height: 100vh;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #ced4da;
+  border-radius: 4px;
+}
