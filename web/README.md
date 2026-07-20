@@ -2,7 +2,7 @@
 
 Application Pokédex moderne connectée à [PokéAPI](https://pokeapi.co/).
 
-**Demo :** [pokedex-dariohprojects.vercel.app](https://dex-explorer.vercel.app)
+**Demo :** [dex-explorer.vercel.app](https://dex-explorer.vercel.app)
 
 ## Fonctionnalités
 
