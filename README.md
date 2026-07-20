@@ -2,8 +2,8 @@
 
 Deux interfaces pour explorer le Pokédex national (1025 espèces) via [PokéAPI](https://pokeapi.co/) :
 
-**Demo web :** [pokedex-dariohprojects.vercel.app](https://pokedex-dariohprojects.vercel.app)  
-(alias production : [pokedex-phi-seven-21.vercel.app](https://pokedex-phi-seven-21.vercel.app))
+**Demo web :** [dex-explorer.vercel.app](https://dex-explorer.vercel.app)  
+(ancien alias : [pokedex-phi-seven-21.vercel.app](https://pokedex-phi-seven-21.vercel.app))
 
 | Dossier | Stack | Lancement |
 |---------|-------|-----------|
