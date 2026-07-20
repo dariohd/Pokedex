@@ -27,3 +27,5 @@ coverage/
 
 # Vite
 web/dist/
+.vercel
+.env*
